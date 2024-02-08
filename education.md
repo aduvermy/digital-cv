@@ -1,4 +1,4 @@
-|  [About](./) | [Education](./education.html) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 ## Education
 
@@ -16,8 +16,15 @@ Master of Bioinformatics, Methods & Molecular analysis.
   * Machine learning
   * Omics (RNA, DNA, proteomique)
 
+## Trainings 
 
-* Student jobs
+**Formation Introduction au Deep Learning | FIDLE CNRS** - _(2022 - 2023)_ <br>
+Keras, Tensorflow, fine-tuning, CNN, transformers, encoder 
+
+**Network statistical analysis | CNRS** - _(November 2023)_ <br>
+Manipulating, visualizing, and sampling networks, statistical description, random graph models, and community detection (spectral clustering). 
+
+## Student jobs
 
 CDI | Carrefour | 2016 -2019 
 CDI | AgriEmploiO1 | 2020 - feb. 2022
