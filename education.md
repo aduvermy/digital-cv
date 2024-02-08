@@ -5,8 +5,6 @@
 **Master of Bioinformatics, Methods & Molecular Analysis.** <br>
 _University Claude Bernard Lyon 1 - 2018 - 2021_ <br>
 
----
-
 **Bachelor of Science, Technology, Health. Major in Bioinformatics Statistics and Modeling.** <br>
 _University Claude Bernard Lyon 1 - 2015 - 2018_ <br>
 <br>
@@ -17,8 +15,6 @@ _University Claude Bernard Lyon 1 - 2015 - 2018_ <br>
 **Formation Introduction au Deep Learning | FIDLE CNRS** <br>
 _2022 - 2023_ <br>
 Keras, Tensorflow, fine-tuning, CNN, transformers, encoder 
-
----
 
 **Network statistical analysis | CNRS** <br>
 _November 2023_ <br>
