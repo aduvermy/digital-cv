@@ -1,3 +1,4 @@
+|:------------:| :-------------------------------: | :----------------------------------------:| :-------------------------------------------------------: | 
 |  [About](./) | [Work experiences](./work-exp.md) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 ## Short bio
