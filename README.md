@@ -7,7 +7,7 @@ Since 2022: CNRS Ingeneer employed by Lesaffre's Data Science Team @ [Partnershi
 Development of a haploid strain detection algorithm using random forest with NGS data. Development of Nextflow pipelines (Metagenomics, Transcriptomics) designed to be launched from custom API and connected to Cloud storage. 
 NGS data mining and modeling.
  * Mission LBMC (40%) : 
-Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects. [HTRfit](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr)
+Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects.
 
 ## Dev-ventures
 
