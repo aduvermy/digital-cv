@@ -1,4 +1,3 @@
-# Arnaud Duvermy
 
 Software developer & Data Scientist in Biology <br>
 
@@ -6,21 +5,30 @@ Software developer & Data Scientist in Biology <br>
 
 ## Short bio
 
-Since 2022: CNRS Ingeneer missioned by Lesaffre's Data Science Team 
+Since 2022: CNRS Ingeneer employed by Lesaffre's Data Science Team @ [Partnership between Lesaffre's Data Science Team and LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation)
   * Missions Datascience Lesaffre (60%) :
 Development of a haploid strain detection algorithm using random forest with NGS data. Development of Nextflow pipelines (Metagenomics, Transcriptomics) designed to be launched from custom API and connected to Cloud storage. 
 NGS data mining and modeling.
-* Mission LBMC (40%) : 
-Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects. [HTRfit]([https://bryter.com/](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr))
+ * Mission LBMC (40%) : 
+Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects. [HTRfit](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr)
 
 ## Dev-ventures
 
-**High throughput RNAseq model fit | LBMC** @ [HTRfit]([https://bryter.com/](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr)) - _(2022 - 2024)_ <br>
+**High throughput RNAseq model fit | LBMC** @ [HTRfit]([https://bryter.com/](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr) - _(2022 - 2024)_ <br>
 This development project is the most advanced one I have participated in thus far! HTRfit is a statistical framework developed to investigate essential experimental parameters that influence your ability to detect expression changes, such as sequencing depth and the number of replicates. Moreover, by enabling the inclusion of fixed effects, mixed effects, and interactions in your RNA-seq data analysis, HTRfit provides the flexibility needed to effectively conduct your differential expression analysis. HTRfit is particularly well-suited for the analysis of a large number of samples or highly multiplexed experiments.<br><br>
 
-**Shiny dashboard | BF2i** @ [APTA]([https://foundation.graphql.org/](https://github.com/aduvermy/shiny.git
+**Shiny dashboard | BF2i** @ [APTA](https://github.com/aduvermy/shiny.git)
 )) _(Oct 2020 - Nov 2020)_ <br>
 Shiny application of BF2I allowing the visualization of RNA-seq data of the *pea aphid Acyrthosiphon pisum*. Allows performing PCA, clustering, heatmap, and time series visualization.   <br><br>
+
+## Trainings 
+
+**Formation Introduction au Deep Learning | FIDLE CNRS** - _(2022 - 2023)_ <br>
+Keras, Tensorflow, fine-tuning, CNN, transformers, encoder 
+
+**Network statistical analysis**  | CNRS** - _(November 2023)_ <br>
+Manipulating, visualizing, and sampling networks, statistical description, random graph models, and community detection (spectral clustering). 
+
 
 ## Scientific publications
 
