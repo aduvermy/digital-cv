@@ -1,7 +1,7 @@
-|  [About](./) | [Working experience](./work-exp.md) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Work experiences](./work-exp.md) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 
-## Working experience
+## Work experiences
 
 **Since 2022: CNRS Engineer employed by Lesaffre's Data Science Team.** <br>
 CDD | LBMC, Lesaffre | From January 2021 to June 2021
