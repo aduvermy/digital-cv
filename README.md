@@ -2,7 +2,7 @@ Software developer & Data Scientist in Biology <br>
 
 ## Short bio
 
-Since 2022: CNRS Ingeneer employed by Lesaffre's Data Science Team 
+Since 2022: CNRS Ingeneer employed by Lesaffre's Data Science Team  
 @ [Partnership Lesaffre's Data Science/LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation)
   * Missions DataScience Lesaffre (60%) :
 Development of a haploid strain detection algorithm using random forest with NGS data. Development of Nextflow pipelines (Metagenomics, Transcriptomics) designed to be launched from custom API and connected to Cloud storage. 
