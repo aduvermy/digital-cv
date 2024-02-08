@@ -1,4 +1,4 @@
-|  [About](./) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Education](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 ## Short bio
 
@@ -20,12 +20,5 @@ This development project is the most advanced one I have participated in thus fa
 @ [APTA](https://github.com/aduvermy/shiny.git) - _(Oct 2020 - Nov 2020)_ <br>
 Shiny application of BF2I allowing the visualization of RNA-seq data of the *pea aphid Acyrthosiphon pisum*. Allows performing PCA, clustering, heatmap, and time series visualization.
 
-## Trainings 
-
-**Formation Introduction au Deep Learning | FIDLE CNRS** - _(2022 - 2023)_ <br>
-Keras, Tensorflow, fine-tuning, CNN, transformers, encoder 
-
-**Network statistical analysis | CNRS** - _(November 2023)_ <br>
-Manipulating, visualizing, and sampling networks, statistical description, random graph models, and community detection (spectral clustering). 
 
 
