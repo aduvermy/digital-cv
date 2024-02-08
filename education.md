@@ -1,4 +1,4 @@
-|  [About](./) | [Work experiences](./work-exp.md) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Experiences](./work-exp.md) | [Education](./education.html) | [Publications](./scientific-publications.html) | 
 
 ## Education
 
@@ -8,11 +8,9 @@ _University Claude Bernard Lyon 1 - 2018 - 2021_ <br>
 <br>
 **Bachelor of Science, Technology, Health. Major in Bioinformatics Statistics and Modeling.** <br>
 _University Claude Bernard Lyon 1 - 2015 - 2018_ <br>
-  * Descriptive and inferential statistics
-  * Genetic, Microbiology, Ecology
-  * Algorithmic for bioinformatics
 <br>
 <br>
+
 ## Trainings 
 
 **Formation Introduction au Deep Learning | FIDLE CNRS** <br>
