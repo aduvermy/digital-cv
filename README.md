@@ -1,4 +1,4 @@
-|  [About](./) | [Education](./education.html) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 ## Short bio
 
