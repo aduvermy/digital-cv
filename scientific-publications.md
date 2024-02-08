@@ -1,4 +1,4 @@
-|  [About](./) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Education](./education.html) | [Scientific publications](./scientific-publications.html) | 
 
 
 ## Scientific publications
