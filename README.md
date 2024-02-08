@@ -1,10 +1,4 @@
-|  Home   | [Scientific publications](./scientific-publications.html) | Price |
-| :-----: | :-------------------------------------------------------: | :----: |
-
-
-[Scientific publications](./scientific-publications.html)
-
-Software developer & Data Scientist in Biology <br>
+|  [About](./) | [Scientific publications](./scientific-publications.html) | 
 
 ## Short bio
 
