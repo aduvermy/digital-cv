@@ -1,4 +1,4 @@
-|  [About](./) | [Work experiences](./work-exp.md) | [Education & Trainings](./education.html) | [Scientific publications](./scientific-publications.html) | 
+|  [About](./) | [Experiences](./work-exp.md) | [Education](./education.html) | [Publications](./scientific-publications.html) | 
 
 
 ## Work experiences
