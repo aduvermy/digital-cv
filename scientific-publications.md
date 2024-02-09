@@ -1,4 +1,4 @@
-|  [About](./) | [Experiences](./work-exp.md) | [Education](./education.html) | [Publications](./scientific-publications.html) |  [Recipe](./Recipe.html)| 
+|  [About](./) | [Experiences](./work-exp.md) | [Education](./education.html) | [Publications](./scientific-publications.html) |  [Recipe](./recipe.html)| 
 
 
 ## Scientific publications
