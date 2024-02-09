@@ -10,6 +10,7 @@ In a mixing bowl:
 - salt: 5 g
 - fresh yeast: 25 g
 - water: 300 ml - 25°C <br>
+
 ⚠️ Do not put yeast and salt directly in contact, or your yeast won't activate. <br>
 <br>
 Mix and knead to obtain a dough. <br>
@@ -30,6 +31,7 @@ Cut the following ingredients into small pieces and place them in a casserole:
 - Garlic
 - Leeks
 - Mushrooms <br>
+
 Add water and soy sauce to prevent sticking and let them cook.<br>
 Start cooking your rice about 7 minutes before your vegetables are cooked. <br>
 When the vegetables are cooked, turn off the heat for 2 minutes, then add Japanese golden curry. 🔥🔥 <br>
@@ -46,6 +48,7 @@ Cut the following ingredients into small pieces and place them in a casserole:
 - Garlic
 - Other vegetables from your fridge
 - Tomato sauce <br>
+
 When the potatoes and carrots are almost cooked, add chickpeas and sliced seitan.<br>
 Prepare your couscous.<br>
 Serve and enjoy!
