@@ -2,8 +2,8 @@ theme: jekyll-theme-minimal
 title: Arnaud DUVERMY
 description: | 
   <center>
-  <img src="./additional-content/logo-pic.png" alt="logoo" class="center">
-  Software developer & Data Scientist in Biology <br><br>
+  <img src="./additional-content/logo-pic.png" alt="logoo" class="center"> <br>
+  Software developer & <br> Data Scientist in Biology <br><br>
   </center>  
   💻 Software developer<br>
   📊 Data wizard<br>
@@ -14,8 +14,10 @@ description: |
   💡Proactive & Forward-thinking<br>
   🏃‍♂️ Sport-lover<br>
   🍻 Team-building<br><br>
+  <center>
   <a href="https://fr.linkedin.com/in/arnaud-duvermy-b49248132"><img src="additional-content/logo-linkedin.svg"  width="35" height="35"></a> 
   <a href="https://github.com/aduvermy/"><img src="additional-content/github-logo.svg"  width="35" height="35"></a>
   <a href="https://aduvermy.github.io/digital-cv/"><img src="additional-content/logo-www.png"  width="35" height="35"></a>
   <a href="https://www.canva.com/design/DAEsiZY7szc/b3WlWb3fqFCH2BPImJL3Yw/edit?utm_content=DAEsiZY7szc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="additional-content/resume.png"  width="35" height="35"></a>
+  </center>  
 
