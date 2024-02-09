@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Arnaud DUVERMY
-logo: "./additional-content/logo-pic.png"
 description: | 
+  <img src="./additional-content/logo-pic.png" alt="logo" class="center">
   <center>
   Software developer & Data Scientist in Biology <br><br>
   </center>  
