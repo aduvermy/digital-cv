@@ -21,6 +21,8 @@ Internship | LBMC, Lyon | From May 2020 to July 2020
 **Analyse of NGS data from herbaria sample to understand viruses history evolution** <br>
 Internship | CIRAD, Reunion | From May 2019 to Dec. 2019
 
+
+
 ## Student jobs
 
 CDI | Carrefour | 2016 -2019 
