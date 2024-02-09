@@ -2,8 +2,9 @@ theme: jekyll-theme-minimal
 title: Arnaud DUVERMY
 logo: "./additional-content/logo-pic.png"
 description: | 
-  27 years old <br>
-  Software developer & Data Scientist in Biology <br><br><br>
+  <center>
+  Software developer & Data Scientist in Biology <br><br>
+  </center>  
   💻 Software developer<br>
   📊 Data wizard<br>
   🤖 Machine learning<br>
@@ -12,7 +13,7 @@ description: |
   🧬 Next generation sequencing<br>
   💡Proactive & Forward-thinking<br>
   🏃‍♂️ Sport-lover<br>
-  🍻 Team-building<br><br><br>
+  🍻 Team-building<br><br>
   <a href="https://fr.linkedin.com/in/arnaud-duvermy-b49248132"><img src="additional-content/logo-linkedin.svg"  width="35" height="35"></a> 
   <a href="https://github.com/aduvermy/"><img src="additional-content/github-logo.svg"  width="35" height="35"></a>
   <a href="https://aduvermy.github.io/digital-cv/"><img src="additional-content/logo-www.png"  width="35" height="35"></a>
