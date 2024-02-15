@@ -41,7 +41,7 @@ Mix the ingredients thoroughly, then pour the mixture into cupcake molds. Bake i
 
 <br>
 <center>
-  <img src="./additional-content/MG-20240215-WA0001.jpg" alt="bread-pic" class="center" width="200" height="200">
+  <img src="./additional-content/IMG-20240215-WA0001.jpg" alt="cupcake-pic" class="center" width="200" height="200">
 </center> 
 
 ---
@@ -62,7 +62,7 @@ Once the barley is cooked, combine it with the cooked vegetables in the casserol
 
 <br>
 <center>
-  <img src="./additional-content/MG-20240215-WA0005.jpg" alt="bread-pic" class="center" width="200" height="200">
+  <img src="./additional-content/IMG-20240215-WA0001.jpg" alt="blezoto-pic" class="center" width="200" height="200">
 </center> 
   
 
