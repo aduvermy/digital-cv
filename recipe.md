@@ -31,10 +31,10 @@ My tip: In a small bowl, mix a small amount of nut oil, hot water, and salt. Bru
 **cupcake tuna mustard**
 
 In a bowl :
-- tuna : 150 g
-- eggs : 3
+- tuna: 150 g
+- eggs: 3
 - salt, pepper
-- mustard : 2cs
+- mustard: 2cs
 - cream cheese: 2 cs  
 
 Mix the ingredients thoroughly, then pour the mixture into cupcake molds. Bake in the oven at approximately 180°C for around 30 minutes.
@@ -54,7 +54,7 @@ Start by cooking the vegetables:
 - Sauté chopped onions, shallots, and garlic until golden brown. Season with salt and pepper to taste.
 Meanwhile, briefly boil the broccoli for 1 minute.
 
-Once the onions are caramelized, add the mushrooms to the pan. Once the mushrooms are cooked, transfer them to a casserole dish and set aside.
+Once the onions are caramelized, add the mushrooms to the pan, and then the broccoli. Once the mushrooms are cooked, transfer everything to a casserole dish and set aside.
 
 In the same pan, cook the barley. Add water and vegetable bouillon cubes for flavor. Allow the barley to simmer until tender.
 
@@ -62,7 +62,7 @@ Once the barley is cooked, combine it with the cooked vegetables in the casserol
 
 <br>
 <center>
-  <img src="./additional-content/IMG-20240215-WA0001.jpg" alt="blezoto-pic" class="center" width="200" height="200">
+  <img src="./additional-content/IMG-20240215-WA0005.jpg" alt="blezoto-pic" class="center" width="200" height="200">
 </center> 
   
 
