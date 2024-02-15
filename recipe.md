@@ -20,7 +20,55 @@ Shape into bread and place in the oven. <br>
 <br>
 My tip: In a small bowl, mix a small amount of nut oil, hot water, and salt. Brush the bread with this mixture before baking.
 
+<br>
+<center>
+  <img src="./additional-content/IMG-20240211-WA0002.jpg" alt="bread-pic" class="center" width="200" height="200">
+</center>  
+
+
 ---
+
+**cupcake tuna mustard**
+
+In a bowl :
+- tuna : 150 g
+- eggs : 3
+- salt, pepper
+- mustard : 2cs
+- cream cheese: 2 cs  
+
+Mix the ingredients thoroughly, then pour the mixture into cupcake molds. Bake in the oven at approximately 180°C for around 30 minutes.
+
+<br>
+<center>
+  <img src="./additional-content/MG-20240215-WA0001.jpg" alt="bread-pic" class="center" width="200" height="200">
+</center> 
+
+---
+
+**blesoto mushroom, broccoli, feta**
+
+Start by cooking the vegetables:
+
+- Heat some oil in a pan.
+- Sauté chopped onions, shallots, and garlic until golden brown. Season with salt and pepper to taste.
+Meanwhile, briefly boil the broccoli for 1 minute.
+
+Once the onions are caramelized, add the mushrooms to the pan. Once the mushrooms are cooked, transfer them to a casserole dish and set aside.
+
+In the same pan, cook the barley. Add water and vegetable bouillon cubes for flavor. Allow the barley to simmer until tender.
+
+Once the barley is cooked, combine it with the cooked vegetables in the casserole dish. For added creaminess, crumble some feta cheese into the mixture and gently stir until well incorporated. Serve hot and enjoy!
+
+<br>
+<center>
+  <img src="./additional-content/MG-20240215-WA0005.jpg" alt="bread-pic" class="center" width="200" height="200">
+</center> 
+  
+
+
+---
+
 
 **japanese curry** 🌿
 
