@@ -102,4 +102,15 @@ Prepare your couscous.<br>
 Serve and enjoy!
 
 
+--
 
+**souffle cheese ham**
+
+- Separate the whites and yolks of 5 eggs.
+- Beat the egg whites until stiff peaks form.
+- Mix together the egg yolks, pepper, salt, 140g of ham, and cheese.
+- Prepare a small béchamel sauce.
+- Gently fold the egg yolk mixture into the beaten egg whites without deflating them.
+- Place the mixture in an oven-safe dish and bake until cooked through (~30min, 200°C).
+
+---
