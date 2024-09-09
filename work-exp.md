@@ -3,8 +3,14 @@
 
 ## Work experiences
 
-**Since 2022: CNRS Engineer employed by Lesaffre's Data Science Team.** <br>
-CDD | LBMC, Lesaffre | From January 2021 to June 2021
+
+**Engineer responsible for developing a Python library for longitudinal data analysis in medical research at APHP**
+CDD | AIStrosigth (Inria), APHP | From June 2024 to decembre 2024
+
+---
+
+**CNRS Engineer employed by Lesaffre's Data Science Team.** <br>
+CDD | LBMC, Lesaffre | From January 2021 to June 2024
 
 ---
 
