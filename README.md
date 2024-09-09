@@ -3,7 +3,12 @@
 
 ## Short bio
 
-Since 2022: CNRS Ingeneer employed by Lesaffre's Data Science Team <br>
+**Since June 2024:**
+AIStrosight Engineer responsible for developing a Python library for longitudinal data analysis in medical research at APHP.<br>
+Designed and developed a flexible, scalable library for building metrics and performing clustering on longitudinal data.
+
+**2022-2024: **
+CNRS Engineer| employed by Lesaffre's Data Science Team. <br>
 @ [Partnership Lesaffre's Data Science/LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation) <br>
   * Missions DataScience Lesaffre (60%) :
 Development of a haploid strain detection algorithm using random forest with NGS data. Development of Nextflow pipelines (Metagenomics, Transcriptomics) designed to be launched from custom API and connected to Cloud storage. 
@@ -12,6 +17,11 @@ NGS data mining and modeling.
 Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects.
 
 ## Dev-ventures
+
+**Longitudinal Data Analysis Library | AIStrosight, APHP** <br>
+@[AIStrosight](https://team.inria.fr/aistrosight/) - (2024) <br>
+Developed a flexible and scalable Python library designed to facilitate the creation of metrics and clustering on longitudinal medical data. This tool aims to enhance the analysis of temporal patterns in patient data, enabling advanced insights into health trends over time.
+
 
 **High throughput RNAseq model fit | LBMC** <br>
 @ [HTRfit](https://htrfit-lbmc-yvertlab-vortex-plasticity-mutation-477701eb488dfd9.gitbiopages.ens-lyon.fr) - _(2022 - 2024)_ <br>
