@@ -3,11 +3,11 @@
 
 ## Short bio
 
-**Since June 2024:**
+*Since June 2024:* <br>
 AIStrosight Engineer responsible for developing a Python library for longitudinal data analysis in medical research at APHP.<br>
-Designed and developed a flexible, scalable library for building metrics and performing clustering on longitudinal data.
+Developed a flexible and scalable Python library for building metrics and clustering on longitudinal medical data, easily integrable with machine learning tools for advanced predictive analysis. <br>
 
-**2022-2024: **
+*2022-2024:* <br>
 CNRS Engineer| employed by Lesaffre's Data Science Team. <br>
 @ [Partnership Lesaffre's Data Science/LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation) <br>
   * Missions DataScience Lesaffre (60%) :
@@ -20,7 +20,7 @@ Development of a statistical framework for simulating and analyzing high-through
 
 **Longitudinal Data Analysis Library | AIStrosight, APHP** <br>
 @[AIStrosight](https://team.inria.fr/aistrosight/) - (2024) <br>
-Developed a flexible and scalable Python library designed to facilitate the creation of metrics and clustering on longitudinal medical data. This tool aims to enhance the analysis of temporal patterns in patient data, enabling advanced insights into health trends over time.
+Developed a flexible and scalable Python library designed to facilitate the creation of metrics and clustering on longitudinal medical data. 
 
 
 **High throughput RNAseq model fit | LBMC** <br>
