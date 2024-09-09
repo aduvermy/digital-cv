@@ -3,18 +3,11 @@
 
 ## Short bio
 
-*Since June 2024:* <br>
-AIStrosight Engineer responsible for developing a Python library for longitudinal data analysis in medical research at APHP.<br>
-Developed a flexible and scalable Python library for building metrics and clustering on longitudinal medical data, easily integrable with machine learning tools for advanced predictive analysis. <br>
+I earned a master’s degree in bioinformatics in 2021. Shortly after, I started a two-year contract as a CNRS Engineer working in a research and development department at Lesaffre (@[Partnership Lesaffre's Data Science/LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation)). There, I focused on developing detection algorithms and data processing pipelines, applying my expertise in statistics and machine learning to tackle complex data challenges in genomics and metagenomics.
 
-*2022-2024:* <br>
-CNRS Engineer| employed by Lesaffre's Data Science Team. <br>
-@ [Partnership Lesaffre's Data Science/LBMC](https://www.rhone-auvergne.cnrs.fr/fr/cnrsinfo/accelerer-linnovation-dans-le-domaine-de-la-fermentation) <br>
-  * Missions DataScience Lesaffre (60%) :
-Development of a haploid strain detection algorithm using random forest with NGS data. Development of Nextflow pipelines (Metagenomics, Transcriptomics) designed to be launched from custom API and connected to Cloud storage. 
-NGS data mining and modeling.
- * Mission LBMC (40%) : 
-Development of a statistical framework for simulating and analyzing high-throughput RNAseq data with fixed, mixed, and interaction effects.
+Seeking new challenges and opportunities to advance method development, I joined AIStrosight in June 2024. Here, I’m dedicated to creating a Python library for analyzing longitudinal medical data, designed to integrate seamlessly with machine learning tools for enhanced predictive analysis.
+
+As my contract with AIStrosight is nearing its end, I am currently seeking new challenges in developing innovative methods and technologies.
 
 ## Dev-ventures
 
